@@ -5,7 +5,7 @@ def square_array(array)
   r = Array.new 
   
   while i < array.length 
-    puts i
+    puts array.length
     i ++
   end
 
