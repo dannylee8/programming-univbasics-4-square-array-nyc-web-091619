@@ -7,5 +7,6 @@ def square_array(array)
   while i < array.length 
     puts array.length
     i ++
-
+end
+end
 end
