@@ -5,6 +5,5 @@ def square_array(array)
   while i < array.length 
     puts i
     i++
-end
-end
+  end
 end
